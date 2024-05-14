@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Raphael, I work as a senior full stack developer and tech enthusiast and passionate about science fiction.
+I'm Raphael, I work as a senior full stack developer, tech enthusiast and passionate about science fiction.
 
 # 💻 Tech Stack
 
